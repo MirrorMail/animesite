@@ -1,0 +1,464 @@
+/* NON-CLASS CSS */
+body {
+    text-align: center;
+    margin: 0;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-color:darkgray;
+    border-width: 8px;
+    margin: 0px auto;
+}   
+
+h1 {
+    color:mediumturquoise;
+}
+
+h2 {
+    color: lightseagreen;
+    margin: auto;
+}
+/* NON-CLASS CSS END */
+
+
+/* Containers */
+.header-container {
+    width: auto;
+    margin: auto;
+    line-height: 2;
+    background-color: lightblue;
+    padding: 50px;
+}
+
+.header-para {
+    width: 600px;
+    margin: auto;
+    line-height: 2;
+}
+
+.top-container {
+    background-color: lightyellow;
+    margin: auto;
+    padding: 50px;
+}
+
+.top-con-para {
+    width: 600px;
+    margin: auto;
+    line-height: 2;
+}
+
+.middle-container {
+    background-color: lightslategrey;
+    padding: 50px;
+}
+
+.bottom-container {
+    background-color: mediumslateblue;
+    padding: 100px;
+}
+
+/* Containers END */
+
+
+/* FIRST PAGE IMAGES*/
+.vagabond-img {
+    height: 400px;
+    width: 250px;
+}
+
+.greed-img {
+    height: 200px;
+    width: 300px;
+}
+
+.kny-img {
+    height: 200px;
+    width: 300px;
+}
+
+.aizen-img {
+    height: 200px;
+    width: 300px;
+}
+
+.aot-img {
+    height: 200px;
+    width: 300px;
+}
+
+.sword-art-img {
+    height: 200px;
+    width: 135px;
+}
+/* FIRST IMAGES END*/
+
+/* HR CSS*/
+.hr-1 {
+    background-color:lightcoral;
+    margin: 0 !important;
+    padding: 1px;
+}
+
+.hr-2 {
+    background-color: lightcoral;
+    margin: 0px;
+    padding: 1px;
+}
+
+.hr-3 {
+    background-color: lightcoral;
+    margin: 0;
+    padding: 1px;
+    clear: both;
+}
+/* HR CSS END*/
+
+/* WA page CSS */
+.body-wa {
+    text-align: center;
+}
+
+.watopcon {
+    background-color:navajowhite;
+    margin: auto;
+    padding: 100px;
+}
+
+.wabotcon {
+    background-color: lightblue;
+    margin: auto;
+    padding: 10px;
+}
+
+.wa-p {
+    width: 500px;
+    margin: auto;
+}
+
+.wa-hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-color:darkgray;
+    border-width: 8px;
+    margin: 20px auto;
+}
+
+.wa-img1 {
+    padding-top: 50px;
+    
+    top: 50px;
+    
+}
+
+.wa-img2 {
+    padding-top: 10px;
+    
+   
+}
+
+.wa-img3 {
+    padding-top: 10px;
+    
+}
+
+.wa-img4 {
+    padding-top: 10px;
+    
+    height: 350px;
+}
+
+.wa-img5 {
+    padding-top: 10px;
+    
+}
+
+/* WA page CSS end */
+
+
+/* MIM page CSS */
+.body-mim {
+    text-align: center;
+}
+
+.mim-topcon {
+    background-color:navajowhite;
+    margin: auto;
+    padding: 100px;
+    position: relative;
+}
+
+.mim-botcon {
+    background-color:lightblue;
+    margin: auto;
+    padding: 10px;
+}
+
+.mim-p {
+    width: 500px;
+    margin: auto;
+}
+
+.mim-hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-color:darkgray;
+    border-width: 8px;
+    margin: 20px auto;
+}
+
+.mim-img1 {
+    padding-top: 10px;
+}
+
+.mim-img2 {
+    padding-top: 10px;
+}
+
+.mim-img3 {
+    padding-top: 10px;
+}
+
+.mim-img4 {
+    padding-top: 10px;
+}
+
+.mim-img5 {
+    padding-top: 10px;
+}
+
+/* MIM page CSS end */
+
+
+/* BCD page CSS */
+.body-bcd {
+    text-align: center;
+}
+
+.bcd-topcon {
+    background-color:navajowhite;
+    margin: auto;
+    padding: 100px;
+}
+
+.bcd-botcon {
+    background-color:lightblue;
+    margin: auto;
+    padding: 10px;
+}
+
+.bcd-p {
+    width: 500px;
+    margin: auto;
+}
+
+.bcd-img1 {
+    height: 300px;
+    width: 300px;
+    padding-top: 10px;
+} 
+
+.bcd-img2 {
+    height: 300px;
+    width: 400px;
+    padding-top: 10px;
+}
+
+.bcd-img3 {
+    height: 300px;
+    width: 250px;
+    padding-top: 10px;
+}
+
+.bcd-img4 {
+    height: 300px;
+    width: 250px;
+    padding-top: 10px;
+}
+
+.bcd-img5 {
+    height: 250px;
+    width: 375px;
+    padding-top: 10px;
+}
+
+.bcd-hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-color:darkgray;
+    border-width: 8px;
+    margin: 20px auto;
+}
+/* BCD page CSS end */
+
+
+/* BS page CSS */
+.body-bs {
+    text-align: center;
+}
+
+.bs-topcon {
+    background-color:navajowhite;
+    margin: auto;
+    padding: 100px;
+}
+
+.bs-botcon {
+    background-color:lightblue;
+    margin: auto;
+    padding: 10px;
+}
+
+.bs-p {
+    width: 500px;
+    margin: auto;
+}
+
+.bs-hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-color:darkgray;
+    border-width: 8px;
+    margin: 20px auto;
+}
+
+.bs.img1 {
+    padding-top: 10px;
+}
+
+.bs.img2 {
+    padding-top: 10px;
+}
+
+.bs.img3 {
+    padding-top: 10px;
+}
+
+.bs.img4 {
+    padding-top: 10px;
+}
+
+.bs.img5 {
+    padding-top: 10px;
+}
+
+
+/* BS page CSS end */
+
+
+/* BV page CSS */
+.body-bv {
+    text-align: center;
+}
+
+.bv-topcon {
+    background-color:navajowhite;
+    margin: auto;
+    padding: 100px;
+}
+
+.bv-botcon {
+    background-color:lightblue;
+    margin: auto;
+    padding: 10px;
+}
+
+.bv-p {
+    width: 500px;
+    margin: auto;
+}
+
+.bv-hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-color:darkgray;
+    border-width: 8px;
+    margin: 20px auto;
+}
+
+.bv-img1 {
+    padding-top: 10px;
+}
+
+.bv-img2 {
+    padding-top: 10px;
+}
+
+.bv-img3 {
+    padding-top: 10px;
+}
+
+.bv-img4 {
+    padding-top: 10px;
+}
+
+.bv-img5 {
+    padding-top: 10px;
+}
+
+/* BV page CSS end */
+
+
+/* BA page CSS */
+.body-ba {
+    text-align: center;
+}
+
+.ba-topcon {
+    background-color:navajowhite;
+    margin: auto;
+    padding: 100px;
+}
+
+.ba-botcon {
+    background-color:lightblue;
+    margin: auto;
+    padding: 10px;
+}
+
+.ba-p {
+    width: 500px;
+    margin: auto;
+}
+
+.ba-hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-color:darkgray;
+    border-width: 8px;
+    margin: 0px auto;
+}
+
+.ba-img1 {
+    padding-top: 10px;
+
+}
+
+.ba-img2 {
+    padding-top: 10px;
+
+}
+
+.ba-img3 {
+    padding-top: 10px;
+
+}
+
+.ba-img4 {
+    padding-top: 10px;
+}
+
+.ba-img5 {
+    padding-top: 10px;
+
+}
+/* BA page CSS end */
